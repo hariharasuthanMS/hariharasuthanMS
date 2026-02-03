@@ -86,13 +86,6 @@ Automation Test Engineer with **3+ years of experience** in designing, developin
 
 ---
 
-## 📈 GitHub Analytics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hariharasuthanMS&show_icons=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hariharasuthanMS&layout=compact)
-
----
-
 ## 📫 Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/hariharasuthanms  
 - 📧 Email: harisakthirmd@gmail.com@
