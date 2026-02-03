@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-My name is <b>Hari Hara Suthan</b> and I'm an <b>Automation Test Engineer</b> with <b>3+ years of experience</b>, from <b>India</b>.
+My name is <b>Hari Hara Suthan</b> and I'm an <b>Automation Test Engineer</b> with <b>3+ years of experience in building scalable automation frameworks and improving product quality</b>.
 </p>
 
 <h2 align="left">About me</h2>
@@ -95,7 +95,7 @@ and CI-ready automation execution.
 
 <p align="left">
 💼 LinkedIn: <a href="https://www.linkedin.com/in/hariharasuthanms" target="_blank">linkedin.com/in/hariharasuthanms</a><br>
-📧 Email: <b>yourmail@gmail.com</b>
+📧 Email: <b>harisakthirmd@gmail.com</b>
 </p>
 
 <p align="left">
